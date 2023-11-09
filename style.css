@@ -851,7 +851,11 @@ input:required {
       height: 800px; } }
   @media only screen and (max-width: 767px) {
     .single-welcome-slide {
-      height: 700px; } }
+      height: 700px; }
+    #home{
+        margin-right: 4rem;
+      }
+    }
   .single-welcome-slide .welcome-text {
     position: relative;
     z-index: 1; }
